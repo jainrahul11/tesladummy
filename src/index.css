@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* ---------------------------------- */
+
+/* for counter component */
+
+
+/* #root{
+  display: flex;
+}
+button{
+
+  margin: 1rem;
+  border: 1px solid red;
+  padding: 0rem, 0.5rem;
+  border-radius: 20%
+} */
+
+/* ----------------------------------------- */
+
+/* table {
+
+  border: 1px solid red;
+  margin: 0.5rem 1rem;
+  
+} */
+
+/* -------------------------------------------- */
+
